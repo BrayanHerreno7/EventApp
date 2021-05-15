@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "142736760158",
+    "project_id": "idyllic-root-231805",
+    "storage_bucket": "idyllic-root-231805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142736760158:android:2ded12e3bdeb8d87f8c3cf",
+        "android_client_info": {
+          "package_name": "com.example.eventapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142736760158-34qctqll5ju99np0ju94gc6g9adfg0b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventapp",
+            "certificate_hash": "8aa9c81b17c0e62e53235d1decd1a88ad669129a"
+          }
+        },
+        {
+          "client_id": "142736760158-tvdec6tq7gl7m7nv5r16a7u1775ng4hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBILgtlm5YnIkqPVMw_r3Px0dqz_2nGEIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142736760158-tvdec6tq7gl7m7nv5r16a7u1775ng4hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

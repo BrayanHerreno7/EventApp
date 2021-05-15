@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">EventApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">EventApp</string>
+    <string name="nav_header_subtitle">eventapp@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Buscar</string>
+    <string name="menu_slideshow">Notificaciones</string>
+    <string name="menu_purchases">Mis Compras</string>
+    <string name="menu_favorites">Favoritos</string>
+    <string name="menu_sell">Vender</string>
+    <string name="menu_categories">categorias</string>
+    <string name="menu_exit">Salir</string>
+
+    <string name="facebook_app_id">530286134623338</string>
+    <string name="fb_login_protocol_scheme">fb530286134623338</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
